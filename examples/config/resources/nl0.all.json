@@ -1,41 +1,16 @@
 {
-    "preferredLanguage": "en-US",
-
-    "mysqlUser": "dddd",
-    "mysqlPassword": "ddddd",
-    "mysqlProtocol": "tcp",
-    "mysqlHost": "dddddd",
-    "mysqlDatabase": "dddddd",
-    "mysqlPort": 3306,
-    "mysqlParameters": {
-        "charset": "utf8mb4,utf8",
-        "tls": "ddddd"
-    },
-
-    "mysqlAggregatePassword": "dddddd",
-    "mysqlAggregateUser": "ddddd",
-    "mysqlAggregateProtocol": "tcp",
-    "mysqlAggregateHost": "ddddddddd",
-    "mysqlAggregateDatabase": "dddddd",
-    "mysqlAggregatePort": 3306,
-    "mysqlAggregateParameters": {
-        "charset": "utf8mb4,utf8",
-        "tls": "ddddddd"
-    },
-
-    "dynamoDBTable": "dddddddddd",
-    "dynamoDBS3BucketName": "ddddddd",
-
-    "passwordPepper": "2323232",
-    "jwtSigningSecret": "23232323",
-
-    "version": "1.0",
-    "metadataVersion": "1.0",
-
-    "awsAccessKey": "3232323",
-    "awsAccessSecret": "32323332",
-    "awsRegion": "4444444",
-
-    "awsiOSPushARN": "4434444",
-    "awsAndroidPushARN": "4444444"
+  "preferredLanguage": "en-US",
+  "mysqlUser": "dddd",
+  "mysqlPassword": "ddddd",
+  "mysqlProtocol": "tcp",
+  "mysqlHost": "dddddd",
+  "mysqlDatabase": "dddddd",
+  "mysqlPort": 3306,
+  "mysqlParameters": {
+      "charset": "utf8mb4,utf8",
+      "tls": "ddddd"
+  },
+  "version": "1.0",
+  "metadataVersion": "1.0",
+  "test": [1, 2, 3, 4]
 }
